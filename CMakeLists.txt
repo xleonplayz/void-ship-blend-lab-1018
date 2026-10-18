@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(blend_lab C)
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_C_STANDARD_REQUIRED ON)
+add_executable(blend_lab src/main.c src/blend.c)

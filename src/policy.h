@@ -1,0 +1,5 @@
+#ifndef BLEND_POLICY_H
+#define BLEND_POLICY_H
+#define BLEND_RELEASE 1
+#define BLEND_MAX_GRAMS 1000000UL
+#endif
