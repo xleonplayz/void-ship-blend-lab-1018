@@ -1,4 +1,6 @@
 #include "blend.h"
+/* The current Dev C entry builder consumes one translation unit. */
+#include "blend.c"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
